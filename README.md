@@ -1,2 +1,2 @@
 # Git-Test
-1. My first git repo
+1. My first git repo.
